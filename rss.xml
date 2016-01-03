@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Modern Sapiens]]></title>
-        <description><![CDATA[Modern Sapiens]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <title><![CDATA[Helping Humans Cope with Technology]]></title>
+        <description><![CDATA[Helping Humans Cope with Technology]]></description>
+        <link>https://thegrid.ai/modern-sapiens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 19:45:14 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 03 Jan 2016 20:14:33 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/modern-sapiens/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/42786262-1570-4e76-b653-230a22e41190.jpg">]]></description>
-            <link>undefinedf9152322-caa2-43cf-8ed2-1f32e5b28c4b/index.html</link>
+            <link>https://thegrid.ai/modern-sapiens/f9152322-caa2-43cf-8ed2-1f32e5b28c4b/index.html</link>
             <guid isPermaLink="false">f9152322-caa2-43cf-8ed2-1f32e5b28c4b</guid>
-            <pubDate>Sun, 03 Jan 2016 19:45:13 GMT</pubDate>
+            <pubDate>Sun, 03 Jan 2016 20:14:24 GMT</pubDate>
         </item>
     </channel>
 </rss>
