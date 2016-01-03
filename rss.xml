@@ -4,7 +4,7 @@
         <description><![CDATA[Modern Sapiens]]></description>
         <link>https://thegrid.ai/modern-sapiens/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 03 Jan 2016 19:21:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Jan 2016 19:22:09 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/modern-sapiens/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -26,13 +26,6 @@
             <link>https://thegrid.ai/modern-sapiens/42f4e89a-feec-40c9-9d8f-b049f458765e/index.html</link>
             <guid isPermaLink="false">42f4e89a-feec-40c9-9d8f-b049f458765e</guid>
             <pubDate>Sun, 03 Jan 2016 19:18:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<article><h1></h1><p></p><img src="http://aspaceforbeing.com/wp-content/uploads/2014/09/WP_20130701_004.jpg"></article>]]></description>
-            <link>http://aspaceforbeing.com/wp-content/uploads/2014/09/WP_20130701_004.jpg</link>
-            <guid isPermaLink="false">e3b2dfb5-3154-4f0f-9bab-b7be5ce5c628</guid>
-            <pubDate>Sun, 03 Jan 2016 19:18:03 GMT</pubDate>
         </item>
     </channel>
 </rss>
